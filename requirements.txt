@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+nsepy
+yfinance
+pandas-ta
+python-dotenv
+schedule 

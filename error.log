@@ -1,0 +1,167 @@
+[2025-07-23 10:38:45.626364] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:38:48.556553] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 10:39:40.777079] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:39:47.163962] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 10:45:44.558947] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:45:47.898516] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 10:46:39.354152] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:46:39.959343] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 10:52:29.994795] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:52:31.178316] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 10:53:22.107539] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:53:22.759090] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 10:59:14.173531] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 10:59:15.331262] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:00:01.412533] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:00:02.208573] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:11:57.299965] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:12:02.285026] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:12:08.831488] Telegram send_signal error: Chat_id is empty
+[2025-07-23 11:13:11.906350] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:13:13.160942] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:13:13.165300] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-23 11:19:08.622585] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:19:09.528946] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:19:10.557880] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 11:20:09.102923] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:20:10.251823] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:20:11.261159] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 11:38:02.228601] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:38:05.230133] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:38:06.712382] Telegram send_signal error: Chat_id is empty
+[2025-07-23 11:39:06.435467] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:39:07.593107] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:39:07.598033] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-23 11:45:01.420435] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:45:02.656692] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:45:03.684539] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 11:45:54.689481] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 11:45:55.788042] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 11:45:56.803561] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:03:06.859689] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:03:08.294106] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:03:09.000978] Telegram send_signal error: Chat_id is empty
+[2025-07-23 12:04:05.225266] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:04:05.776526] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:04:05.781524] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-23 12:10:02.880856] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:10:03.465376] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:10:04.482321] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:11:05.119121] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:11:05.660950] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:11:06.676645] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:16:57.655189] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:16:58.206179] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:16:59.232402] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:17:55.574789] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:17:56.065995] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:17:57.079303] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:23:46.550523] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:23:47.589453] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:23:48.616078] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:24:44.515280] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:24:45.806091] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:24:46.824200] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:30:45.182713] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:30:46.023020] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:30:47.041297] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:31:40.313690] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:31:40.831759] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:31:41.843012] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:37:34.577636] Option chain failed for BANKNIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:37:35.475200] yfinance OHLC failed for BANKNIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:37:36.510605] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-23 12:38:37.623759] Option chain failed for NIFTY: Failed to fetch option chain after retries
+[2025-07-23 12:38:38.234128] yfinance OHLC failed for NIFTY: 'NoneType' object is not subscriptable
+[2025-07-23 12:38:39.249717] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 09:16:35.975027] Telegram send_signal error: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+[2025-07-24 09:16:36.561008] Telegram send_signal error: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+[2025-07-24 09:16:36.569376] Telegram send_signal error: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+[2025-07-24 09:24:37.151476] main.py job error: 'NoneType' object has no attribute 'iloc'
+[2025-07-24 09:29:37.879162] main.py job error: 'NoneType' object has no attribute 'iloc'
+[2025-07-24 09:34:38.657368] main.py job error: 'NoneType' object has no attribute 'iloc'
+[2025-07-24 09:39:39.356008] main.py job error: 'NoneType' object has no attribute 'iloc'
+[2025-07-24 09:44:40.095626] main.py job error: 'NoneType' object has no attribute 'iloc'
+[2025-07-24 09:49:40.936695] main.py job error: 'NoneType' object has no attribute 'iloc'
+[2025-07-24 20:57:55.293235] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.294653] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.296681] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.297679] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.298677] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.301139] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.302177] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.304416] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.306453] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 20:57:55.308441] yfinance proxy error: download() got an unexpected keyword argument 'proxies'
+[2025-07-24 21:31:11.353958] Telegram send_signal error: Chat_id is empty
+[2025-07-24 21:32:11.406093] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 21:33:12.543588] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:34:13.589049] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:35:14.672832] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:36:15.731634] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:37:16.827402] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:38:17.953579] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:39:19.006637] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:40:20.140186] Telegram send_signal error: Pool timeout: All connections in the connection pool are occupied. Request was *not* sent to Telegram. Consider adjusting the connection pool size or the pool timeout.
+[2025-07-24 21:45:16.587048] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 21:46:16.632916] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 21:47:17.936894] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 21:48:17.972487] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 21:49:24.616782] Telegram send_signal error: Timed out
+[2025-07-24 21:50:25.743214] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 21:51:25.791417] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 21:52:27.003838] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 21:53:27.042545] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 21:54:27.838998] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 21:55:27.872416] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 21:56:31.939736] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 21:57:31.977788] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:06:59.061024] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:07:59.127654] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:09:00.203704] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:10:00.239079] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:11:01.761498] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:29:40.326756] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:30:41.566818] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:31:41.616883] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:32:42.714044] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:33:42.748686] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:34:44.155613] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:35:44.191781] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:36:45.412226] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:37:45.447856] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:38:46.677145] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:39:46.728270] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:40:48.955141] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:41:49.030715] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:42:49.972764] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:43:50.017980] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:44:51.338207] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:45:51.383572] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:46:52.359297] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:47:52.404694] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:48:53.311152] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:54:56.790626] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:55:56.866840] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:56:58.691116] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:57:58.727752] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 22:58:59.937961] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 22:59:59.974089] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:01:01.079926] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:02:01.115316] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:03:02.226082] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:04:02.260642] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:05:03.368672] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:06:03.406397] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:07:04.523366] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:08:04.566084] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('<asyncio.locks.Event object at 0x0000028915070E00 [unset]> is bound to a different event loop')
+[2025-07-24 23:09:06.067919] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:10:06.110696] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:11:07.415138] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:12:07.453903] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:13:08.456352] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:14:08.485357] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:15:23.860647] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:16:24.969276] Telegram send_signal error: Forbidden: bots can't send messages to bots
+[2025-07-24 23:17:25.007701] Telegram send_signal error: Unknown error in HTTP implementation: RuntimeError('Event loop is closed')
+[2025-07-24 23:18:25.805530] Telegram send_signal error: Forbidden: bots can't send messages to bots
